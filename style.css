@@ -1,10 +1,18 @@
 table {
+<<<<<<< Updated upstream
     border-collapse:8px;
+=======
+    border-collapse: collapse;
+>>>>>>> Stashed changes
 }
 
 
 td,th {
+<<<<<<< Updated upstream
     border: 1px solid black;
+=======
+    border: 1px solid darkblue;
+>>>>>>> Stashed changes
     padding: 0.5em;
     font-size: 25px;
 }
